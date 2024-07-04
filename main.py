@@ -28,7 +28,7 @@ from json_minify import json_minify
 parameters = {
     # community link or invite link
     "community-link":
-        "http://aminoapps.com/invite/77FC1LEDHT",
+        "http://aminoapps.com/c/SoulsSOULLESS",
     # file containing the accounts list[dict]: email, password, device
     "accounts-file":
         "acc.json",
